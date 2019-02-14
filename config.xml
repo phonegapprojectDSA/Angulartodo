@@ -12,6 +12,10 @@
   <description>
      Building Angular Project with Phonegap
   </description>
+    
+    <platform name="ios" />
+<platform name="android" />
+<platform name="winphone" />
 
   <author >
       Matthew Mulligan
